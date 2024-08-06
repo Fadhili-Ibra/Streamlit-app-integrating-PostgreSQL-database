@@ -20,12 +20,12 @@ To run this application locally, follow these steps:
 
 2. **Create and Activate a Virtual Environment:**
 
-    ```sh
+   ```sh
    python -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 3. **Install Required Packages:**
 
-  ```sh
+   ```sh
    pip install streamlit pandas psycopg2-binary sqlalchemy plotly
 
