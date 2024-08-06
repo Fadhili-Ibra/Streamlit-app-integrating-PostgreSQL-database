@@ -24,7 +24,7 @@ To run this application locally, follow these steps:
    python -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
-**Install Required Packages:**
+3. **Install Required Packages:**
 
   ```sh
    pip install streamlit pandas psycopg2-binary sqlalchemy plotly
